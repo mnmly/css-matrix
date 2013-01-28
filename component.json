@@ -1,6 +1,6 @@
 {
-  "name": "CSSMatrix",
-  "repo": "mnmly/CSSMatrix",
+  "name": "css-matrix",
+  "repo": "mnmly/css-matrix",
   "description": "CSSMatrix component",
   "version": "0.0.1",
   "keywords": ["css", "matrix", "3d"],
