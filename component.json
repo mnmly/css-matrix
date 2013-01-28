@@ -1,0 +1,13 @@
+{
+  "name": "CSSMatrix",
+  "repo": "mnmly/CSSMatrix",
+  "description": "CSSMatrix component",
+  "version": "0.0.1",
+  "keywords": ["css", "matrix", "3d"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "CSSMatrix.js"
+  ]
+}
